@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestLambda",
+            "request": "launch",
+            "mainClass": "Lambda.TestLambda",
+            "projectName": "javaP_ea30b795"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestThread",
+            "request": "launch",
+            "mainClass": "Threading.TestThread",
+            "projectName": "javaP_ea30b795"
+        },
+        {
+            "type": "java",
             "name": "Launch StringsMethod",
             "request": "launch",
             "mainClass": "Strings.StringsMethod",
