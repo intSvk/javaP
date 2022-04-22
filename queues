@@ -6,6 +6,16 @@ enum vs class,
 enum vs strings,
 checked exception vs 
 unchecked exception,
+JPA
+jackson
+generics
+serialization
+hashing
+map
+innerclass
+java.io/java.util
+build ????
+
 
 junit
 maven
