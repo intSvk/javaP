@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MainTest",
+            "request": "launch",
+            "mainClass": "JustTest.MainTest",
+            "projectName": "javaP_ea30b795"
+        },
+        {
+            "type": "java",
+            "name": "Launch Drawing",
+            "request": "launch",
+            "mainClass": "TestDrawC.Drawing",
+            "projectName": "javaP_ea30b795"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawingApp",
+            "request": "launch",
+            "mainClass": "TestDraw.DrawingApp",
+            "projectName": "javaP_ea30b795"
+        },
+        {
+            "type": "java",
             "name": "Launch TestLambda",
             "request": "launch",
             "mainClass": "Lambda.TestLambda",
