@@ -1,3 +1,5 @@
+// For Java:
+
 access modifiers,
 query methods and command methods,
 String methods,
@@ -19,3 +21,21 @@ build ????
 
 junit
 maven
+
+
+
+// For spring:
+
+
+loose coupling/tight coupling
+dependency injection
+archtype
+repository
+bean
+
+
+java brains(spring) - 7/24
+telusko - 45m
+
+TODO- spring boot
+
