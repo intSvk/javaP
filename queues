@@ -34,10 +34,10 @@ dependency injection
 archtype
 repository
 bean
+servelet container
+spring web annotation
+JPA
 
 
-java brains(spring) - 7/24
-telusko - 45m
 
-TODO- spring boot
 
