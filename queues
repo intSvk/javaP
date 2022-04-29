@@ -40,6 +40,7 @@ servelet container
 spring web annotation
 JPA
 application context
+method reference and lambda expression
 
 
 
