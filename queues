@@ -34,6 +34,8 @@ dependency injection
 archtype
 repository
 bean
+IOC container
+spring mvc
 servelet container
 spring web annotation
 JPA
